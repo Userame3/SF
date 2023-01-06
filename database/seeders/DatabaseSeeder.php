@@ -21,7 +21,7 @@ class DatabaseSeeder extends Seeder
 
         user::create([
             'name' => 'msmn',
-            'username' => 'wow',
+            'username' => 'MSMN',
             'email' => 'neo2@gmail.com',
             'role' => 'ADMIN',
             'password' => bcrypt('afnpassword')
