@@ -20,9 +20,9 @@ class DatabaseSeeder extends Seeder
     {
 
         user::create([
-            'name' => 'thuliumENT',
-            'username' => 'THXV',
-            'email' => 'THXV@gmail.com',
+            'name' => 'msmn',
+            'username' => 'wow',
+            'email' => 'neo2@gmail.com',
             'role' => 'ADMIN',
             'password' => bcrypt('thxpassword')
         ]);
