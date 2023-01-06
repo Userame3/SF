@@ -24,7 +24,7 @@ class DatabaseSeeder extends Seeder
             'username' => 'wow',
             'email' => 'neo2@gmail.com',
             'role' => 'ADMIN',
-            'password' => bcrypt('thxpassword')
+            'password' => bcrypt('afnpassword')
         ]);
         //     user::create([
         //         'name' => 'seanDenial',
